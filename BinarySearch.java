@@ -18,7 +18,6 @@ public class BinarySearch{
             }
         }
     }
-
     public static void main(String[] args) {
         Scanner nm = new Scanner(System.in);
         System.out.print("Enter the no of elements you want to add in the array:");
